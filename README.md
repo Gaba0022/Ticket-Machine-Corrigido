@@ -1,8 +1,8 @@
-# 🚍Ticket Machine System 
+# 🚍Ticket Machine 
 
 ## Descrição
 
-O **Ticket Machine System** é um sistema desenvolvido para estações de trem, responsável pela operação de máquinas automáticas de venda de bilhetes. O sistema permite que os clientes insiram o valor correto para pagar a passagem e, em seguida, imprime o bilhete correspondente. Ele visa facilitar o processo de compra de passagens, tornando-o mais rápido e eficiente para os usuários.
+O **Ticket Machine** é um sistema desenvolvido para estações de trem, responsável pela operação de máquinas automáticas de venda de bilhetes. O sistema permite que os clientes insiram o valor correto para pagar a passagem e, em seguida, imprime o bilhete correspondente. Ele visa facilitar o processo de compra de passagens, tornando-o mais rápido e eficiente para os usuários.
 
 ## Autores
 
